@@ -20,4 +20,12 @@ Here are the solutions of the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
