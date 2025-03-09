@@ -17,6 +17,7 @@ Here are the solutions of the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,8 @@ Here are the solutions of the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
