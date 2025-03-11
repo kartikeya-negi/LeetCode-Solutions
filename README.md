@@ -42,9 +42,14 @@ Here are the solutions of the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
