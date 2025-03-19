@@ -10,6 +10,7 @@ Here are the solutions of the leetcode problems that i have solved.
 | [0011-container-with-most-water](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -58,10 +59,12 @@ Here are the solutions of the leetcode problems that i have solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Binary Search
