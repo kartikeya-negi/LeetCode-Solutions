@@ -30,6 +30,7 @@ Here are the solutions of the leetcode problems that i have solved.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
@@ -42,6 +43,7 @@ Here are the solutions of the leetcode problems that i have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Sorting
@@ -64,6 +66,7 @@ Here are the solutions of the leetcode problems that i have solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartikeya-negi/LeetCode-Solutions/tree/master/0338-counting-bits) |
